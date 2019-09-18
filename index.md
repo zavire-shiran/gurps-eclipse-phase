@@ -1,5 +1,3 @@
----
-title: GURPS: Eclipse Phase
----
+# Does this work?
 
-## Does this work?
+asdfjaweifr
