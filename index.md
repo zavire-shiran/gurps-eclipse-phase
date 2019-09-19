@@ -43,6 +43,10 @@ Here are some common advantages that morphs have:
 
 # Common Biomorphs
 
+## Splicer [112]
+
+__Advantages__: Biomods [98]; Mesh Inserts [14]
+
 ## Olympian [207]
 
 __Attribute Modifiers__: ST +2 [20]; DX +2 [40]; HT +2 [20]
@@ -62,7 +66,7 @@ Access Jack [9]; Mesh Inserts [14]; DR 4 (Cannot wear armor -40%)
 [12]; Scanning Sense (LADAR) [20]
 
 __Disadvantages__: Maintenance (Electronics Repair and Mechanic, 2
-people, Monthly) [4]; Electrical [-20]; Restricted Diet (Very Common,
+people, Monthly) [-4]; Electrical [-20]; Restricted Diet (Very Common,
 power cells) [-10]
 
 # Spare [27]
