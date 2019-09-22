@@ -47,13 +47,13 @@ Here are some common advantages that morphs have:
 
 __Advantages__: Biomods [98]; Mesh Inserts [14]
 
-__Secondary Characteristics__: HP +5 [25]
+__Secondary Characteristics__: HP +5 [10]
 
 ## Olympian [242]
 
 __Attribute Modifiers__: ST +2 [20]; DX +2 [40]; HT +2 [20]
 
-__Secondary Characteristics__: HP +10 [50]
+__Secondary Characteristics__: HP +10 [20]
 
 __Advantages__: Biomods [98]; Mesh Inserts [14]
 
@@ -63,7 +63,7 @@ __Advantages__: Biomods [98]; Mesh Inserts [14]
 
 __Attribute Modifiers__: ST -1 [-10]; DX -1 [-20]; HT -1 [-10]
 
-__Secondary Characteristics__: HP +5 [25]
+__Secondary Characteristics__: HP +5 [10]
 
 __Advantages__: Machine [25]; AI [32]; Sculpted Body (see UT28) [0];
 Access Jack [9]; Mesh Inserts [14]; DR 4 (Cannot wear armor -40%)
@@ -77,7 +77,7 @@ power cells) [-10]
 
 __Attribute Modifiers__: ST -4 [-40]
 
-__Secondary Characteristics__: SM-5, Basic Move -1 [-5], HP +5 [25]
+__Secondary Characteristics__: SM-5, Basic Move -1 [-5], HP +5 [10]
 
 __Advantages__: Machine [25]; AI [32]; Mesh Inserts [14]; Skinlink
 [9]; Scanning Sense (LADAR) [20]; DR 4 (Cannot wear armor -40%) [12];
@@ -92,7 +92,7 @@ Electrical [-20]; Restricted Diet (Very Common, power cells) [-10]
 
 __Attribute Modifiers__: ST +2 [20]; DX +1 [20]; HT +1 [10]
 
-__Secondary Characteristics__: HP +10 [50]
+__Secondary Characteristics__: HP +10 [20]
 
 __Advantages__: AI [32]; Claws (Sharp, Switchable +10%) [6]; Access
 Jack [9]; Biomods [98]; Mesh Inserts [14]; DR 3 (Flexible) [12];
