@@ -43,13 +43,13 @@ Here are some common advantages that morphs have:
 
 # Common Biomorphs
 
-## Splicer [137]
+## Splicer []
 
 __Advantages__: Biomods [98]; Mesh Inserts [14]
 
 __Secondary Characteristics__: HP +5 [10]
 
-## Olympian [242]
+## Olympian []
 
 __Attribute Modifiers__: ST +2 [20]; DX +2 [40]; HT +2 [20]
 
@@ -59,7 +59,7 @@ __Advantages__: Biomods [98]; Mesh Inserts [14]
 
 # Synthmorphs
 
-## Case [62]
+## Case []
 
 __Attribute Modifiers__: ST -1 [-10]; DX -1 [-20]; HT -1 [-10]
 
@@ -73,7 +73,7 @@ __Disadvantages__: Maintenance (Electronics Repair and Mechanic, 2
 people, Monthly) [-4]; Electrical [-20]; Restricted Diet (Very Common,
 power cells) [-10]
 
-## Spare [52]
+## Spare []
 
 __Attribute Modifiers__: ST -4 [-40]
 
@@ -88,7 +88,7 @@ Electrical [-20]; Restricted Diet (Very Common, power cells) [-10]
 
 # Pod Biomorphs
 
-## Security Pod [277]
+## Security Pod []
 
 __Attribute Modifiers__: ST +2 [20]; DX +1 [20]; HT +1 [10]
 
